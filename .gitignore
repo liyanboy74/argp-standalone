@@ -1,0 +1,13 @@
+*.o
+*.exe
+.deps
+.vscode
+*.cache
+Makefile
+*~
+*.log
+*.status
+*.a
+config.h
+stamp-h1
+*.d
