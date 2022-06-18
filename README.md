@@ -7,6 +7,7 @@ Original Source: [argp-standalone-1.3.tar.gz file](https://www.lysator.liu.se/~n
 ## Build
 ```
 cd argp-standalone
+autoreconf --install #optional 
 ./configure
 make
 ```
